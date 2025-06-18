@@ -1,0 +1,5 @@
+load STM32F405RGTx
+project name STM32CubeMX
+project toolchain "MDK-ARM V5"
+project path "C:\Users\13087\Desktop\ecg_emotion\F405_FreeRTOS\STM32CubeMX\Target_1"
+SetCopyLibrary "copy only"
